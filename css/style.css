@@ -1,0 +1,13 @@
+body{
+	margin-top: 50px;
+	background: #333;
+	color: #fff;
+}
+
+ul{
+	list-style-type: none;
+}
+
+#output{
+	display: none;
+}
