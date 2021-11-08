@@ -2,4 +2,17 @@
  code and samples of using the program produced.
 
 # Password Conditions Matcher - Description
-This repository mainly based on and used javascript's addEventListener() method that listen for input and click event. Input event trigger when user typing into the input field and click event is trigger when user click the submit button. This will check if user's input satisfy all the requirement and display a pop up window that notify the user about the result.
+This repository is mainly based on and uses javascript's addEventListener() method that listens for the input and the click events. Input event trigger when user typing into the input field and the click event is trigger when user clicks the submit button. This will check if the user's input satisfies all the requirements and display a pop-up window that notifies the user about the result.
+
+## Startup View
+![Start](img/start.PNG)
+
+## Checking for condition
+The condition lights up when the input matches the condition
+![Condition](img/condition.PNG)
+
+## Success - match all conditions
+![allMatch](img/allMatch.PNG)
+
+## Failure - not all conditions match
+![notAllMatch](img/notAllMatch.PNG)
